@@ -1,0 +1,287 @@
+[
+    {
+        "labels": "0 a 4 anos",
+        "male": {
+            "first": 0,
+            "second": 0,
+            "third": 0,
+            "population": 7016897
+        },
+        "female": {
+            "first": 0,
+            "second": 0,
+            "third": 0,
+            "population": 6779172
+        }
+    },
+    {
+        "labels": "05 a 9 anos",
+        "male": {
+            "first": 0,
+            "second": 0,
+            "third": 0,
+            "population": 7624144
+        },
+        "female": {
+            "first": 0,
+            "second": 0,
+            "third": 0,
+            "population": 7345231
+        }
+    },
+    {
+        "labels": "10 a 14 anos",
+        "male": {
+            "first": 0,
+            "second": 0,
+            "third": 0,
+            "population": 8725413
+        },
+        "female": {
+            "first": 0,
+            "second": 0,
+            "third": 0,
+            "population": 8441348
+        }
+    },
+    {
+        "labels": "15 a 19 anos",
+        "male": {
+            "first": 5563264,
+            "second": 2139717,
+            "third": 0,
+            "population": 8558868
+        },
+        "female": {
+            "first": 5902401,
+            "second": 2951201,
+            "third": 0,
+            "population": 8432002
+        }
+    },
+    {
+        "labels": "20 a 24 anos",
+        "male": {
+            "first": 5609648,
+            "second": 2157557,
+            "third": 0,
+            "population": 8630227
+        },
+        "female": {
+            "first": 6030474,
+            "second": 3015237,
+            "third": 0,
+            "population": 8614963
+        }
+    },
+    {
+        "labels": "25 a 29 anos",
+        "male": {
+            "first": 5499647,
+            "second": 2115249,
+            "third": 0,
+            "population": 8460995
+        },
+        "female": {
+            "first": 6050393,
+            "second": 3025196,
+            "third": 0,
+            "population": 8643418
+        }
+    },
+    {
+        "labels": "30 a 34 anos",
+        "male": {
+            "first": 5016477,
+            "second": 1929414,
+            "third": 0,
+            "population": 7717657
+        },
+        "female": {
+            "first": 5618799,
+            "second": 2809399,
+            "third": 0,
+            "population": 8026855
+        }
+    },
+    {
+        "labels": "35 a 39 anos",
+        "male": {
+            "first": 4398332,
+            "second": 1691666,
+            "third": 0,
+            "population": 6766665
+        },
+        "female": {
+            "first": 4985341,
+            "second": 2492671,
+            "third": 0,
+            "population": 7121916
+        }
+    },
+    {
+        "labels": "40 a 44 anos",
+        "male": {
+            "first": 4108371,
+            "second": 1580143,
+            "third": 0,
+            "population": 6320570
+        },
+        "female": {
+            "first": 4682158,
+            "second": 2341079,
+            "third": 0,
+            "population": 6688797
+        }
+    },
+    {
+        "labels": "45 a 49 anos",
+        "male": {
+            "first": 3699808,
+            "second": 1423003,
+            "third": 0,
+            "population": 5692013
+        },
+        "female": {
+            "first": 4298937,
+            "second": 2149468,
+            "third": 0,
+            "population": 6141338
+        }
+    },
+    {
+        "labels": "50 a 54 anos",
+        "male": {
+            "first": 3142747,
+            "second": 1208749,
+            "third": 0,
+            "population": 4834995
+        },
+        "female": {
+            "first": 3713785,
+            "second": 1856892,
+            "third": 0,
+            "population": 5305407
+        }
+    },
+    {
+        "labels": "55 a 59 anos",
+        "male": {
+            "first": 2536524,
+            "second": 975586,
+            "third": 0,
+            "population": 3902344
+        },
+        "female": {
+            "first": 3061713,
+            "second": 1530856,
+            "third": 0,
+            "population": 4373875
+        }
+    },
+    {
+        "labels": "60 a 64 anos",
+        "male": {
+            "first": 1976672,
+            "second": 760259,
+            "third": 0,
+            "population": 3041034
+        },
+        "female": {
+            "first": 2427660,
+            "second": 1213830,
+            "third": 0,
+            "population": 3468085
+        }
+    },
+    {
+        "labels": "65 a 69 anos",
+        "male": {
+            "first": 1445642,
+            "second": 556016,
+            "third": 0,
+            "population": 2224065
+        },
+        "female": {
+            "first": 1831722,
+            "second": 915861,
+            "third": 0,
+            "population": 2616745
+        }
+    },
+    {
+        "labels": "70 a 74 anos",
+        "male": {
+            "first": 1083792,
+            "second": 416843,
+            "third": 250106,
+            "population": 1667373
+        },
+        "female": {
+            "first": 1451985,
+            "second": 725992,
+            "third": 207426,
+            "population": 2074264
+        }
+    },
+    {
+        "labels": "75 a 79 anos",
+        "male": {
+            "first": 708837,
+            "second": 272630,
+            "third": 163578,
+            "population": 1090518
+        },
+        "female": {
+            "first": 1031051,
+            "second": 515526,
+            "third": 147293,
+            "population": 1472930
+        }
+    },
+    {
+        "labels": "80 a 84 anos",
+        "male": {
+            "first": 434605,
+            "second": 167156,
+            "third": 100293,
+            "population": 668623
+        },
+        "female": {
+            "first": 698844,
+            "second": 349422,
+            "third": 99835,
+            "population": 998349
+        }
+    },
+    {
+        "labels": "85 a 89 anos",
+        "male": {
+            "first": 201993,
+            "second": 77690,
+            "third": 46614,
+            "population": 310759
+        },
+        "female": {
+            "first": 356107,
+            "second": 178053,
+            "third": 50872,
+            "population": 508724
+        }
+    },
+    {
+        "labels": "90+",
+        "male": {
+            "first": 99736,
+            "second": 38360,
+            "third": 23016,
+            "population": 153440
+        },
+        "female": {
+            "first": 206773,
+            "second": 103387,
+            "third": 29539,
+            "population": 295390
+        }
+    }
+]

@@ -1,0 +1,254 @@
+[
+ {
+  "state": "Brasil",
+  "primeira": 86.87,
+  "reforco": 33.42,
+  "adicional": 1.39,
+  "imunizados": 78.17,
+  "2reforco": 0.04,
+  "id": 0
+ },
+ {
+  "state": "Tocantins",
+  "primeira": 79.96,
+  "reforco": 21.29,
+  "adicional": 1.09,
+  "imunizados": 67.17,
+  "2reforco": 0.01,
+  "id": 1
+ },
+ {
+  "state": "Sergipe",
+  "primeira": 83.73,
+  "reforco": 29.84,
+  "adicional": 0.79,
+  "imunizados": 71.69,
+  "2reforco": 0.08,
+  "id": 2
+ },
+ {
+  "state": "S\u00e3o Paulo",
+  "primeira": 92.34,
+  "reforco": 42.88,
+  "adicional": 0.95,
+  "imunizados": 89.71,
+  "2reforco": 0.0,
+  "id": 3
+ },
+ {
+  "state": "Santa Catarina",
+  "primeira": 89.18,
+  "reforco": 32.83,
+  "adicional": 1.06,
+  "imunizados": 82.38,
+  "2reforco": 0.02,
+  "id": 4
+ },
+ {
+  "state": "Roraima",
+  "primeira": 74.28,
+  "reforco": 12.66,
+  "adicional": 0.86,
+  "imunizados": 57.01,
+  "2reforco": 0.01,
+  "id": 5
+ },
+ {
+  "state": "Rond\u00f4nia",
+  "primeira": 78.62,
+  "reforco": 20.58,
+  "adicional": 1.25,
+  "imunizados": 67.25,
+  "2reforco": 0.01,
+  "id": 6
+ },
+ {
+  "state": "Rio de Janeiro",
+  "primeira": 84.45,
+  "reforco": 33.54,
+  "adicional": 0.85,
+  "imunizados": 76.03,
+  "2reforco": 0.18,
+  "id": 7
+ },
+ {
+  "state": "Rio Grande do Sul",
+  "primeira": 89.49,
+  "reforco": 42.77,
+  "adicional": 1.53,
+  "imunizados": 82.78,
+  "2reforco": 0.03,
+  "id": 8
+ },
+ {
+  "state": "Rio Grande do Norte",
+  "primeira": 87.68,
+  "reforco": 37.96,
+  "adicional": 3.11,
+  "imunizados": 77.05,
+  "2reforco": 0.0,
+  "id": 9
+ },
+ {
+  "state": "Piau\u00ed",
+  "primeira": 93.55,
+  "reforco": 37.48,
+  "adicional": 0.91,
+  "imunizados": 82.96,
+  "2reforco": 0.11,
+  "id": 10
+ },
+ {
+  "state": "Pernambuco",
+  "primeira": 83.78,
+  "reforco": 24.63,
+  "adicional": 0.73,
+  "imunizados": 71.33,
+  "2reforco": 0.04,
+  "id": 11
+ },
+ {
+  "state": "Par\u00e1",
+  "primeira": 74.28,
+  "reforco": 16.88,
+  "adicional": 1.11,
+  "imunizados": 60.82,
+  "2reforco": 0.03,
+  "id": 12
+ },
+ {
+  "state": "Para\u00edba",
+  "primeira": 94.86,
+  "reforco": 35.62,
+  "adicional": 0.9,
+  "imunizados": 82.06,
+  "2reforco": 0.01,
+  "id": 13
+ },
+ {
+  "state": "Paran\u00e1",
+  "primeira": 90.33,
+  "reforco": 38.29,
+  "adicional": 2.51,
+  "imunizados": 83.5,
+  "2reforco": 0.03,
+  "id": 14
+ },
+ {
+  "state": "Minas Gerais",
+  "primeira": 88.82,
+  "reforco": 36.98,
+  "adicional": 2.32,
+  "imunizados": 80.13,
+  "2reforco": 0.01,
+  "id": 15
+ },
+ {
+  "state": "Mato Grosso do Sul",
+  "primeira": 84.32,
+  "reforco": 25.91,
+  "adicional": 1.93,
+  "imunizados": 79.97,
+  "2reforco": 0.31,
+  "id": 16
+ },
+ {
+  "state": "Mato Grosso",
+  "primeira": 84.45,
+  "reforco": 22.9,
+  "adicional": 1.56,
+  "imunizados": 73.23,
+  "2reforco": 0.03,
+  "id": 17
+ },
+ {
+  "state": "Maranh\u00e3o",
+  "primeira": 74.6,
+  "reforco": 20.0,
+  "adicional": 1.19,
+  "imunizados": 61.11,
+  "2reforco": 0.01,
+  "id": 18
+ },
+ {
+  "state": "Goi\u00e1s",
+  "primeira": 83.82,
+  "reforco": 27.85,
+  "adicional": 1.7,
+  "imunizados": 73.62,
+  "2reforco": 0.06,
+  "id": 19
+ },
+ {
+  "state": "Esp\u00edrito Santo",
+  "primeira": 86.81,
+  "reforco": 32.11,
+  "adicional": 2.04,
+  "imunizados": 76.72,
+  "2reforco": 0.0,
+  "id": 20
+ },
+ {
+  "state": "Distrito Federal",
+  "primeira": 85.23,
+  "reforco": 32.01,
+  "adicional": 1.55,
+  "imunizados": 76.99,
+  "2reforco": 0.01,
+  "id": 21
+ },
+ {
+  "state": "Cear\u00e1",
+  "primeira": 85.76,
+  "reforco": 30.14,
+  "adicional": 1.6,
+  "imunizados": 71.07,
+  "2reforco": 0.0,
+  "id": 22
+ },
+ {
+  "state": "Bahia",
+  "primeira": 86.22,
+  "reforco": 29.3,
+  "adicional": 1.73,
+  "imunizados": 72.8,
+  "2reforco": 0.01,
+  "id": 23
+ },
+ {
+  "state": "Amazonas",
+  "primeira": 76.88,
+  "reforco": 12.83,
+  "adicional": 0.42,
+  "imunizados": 63.38,
+  "2reforco": 0.02,
+  "id": 24
+ },
+ {
+  "state": "Amap\u00e1",
+  "primeira": 70.46,
+  "reforco": 11.11,
+  "adicional": 2.45,
+  "imunizados": 54.0,
+  "2reforco": 0.0,
+  "id": 25
+ },
+ {
+  "state": "Alagoas",
+  "primeira": 83.68,
+  "reforco": 27.5,
+  "adicional": 0.34,
+  "imunizados": 71.34,
+  "2reforco": 0.09,
+  "id": 26
+ },
+ {
+  "state": "Acre",
+  "primeira": 79.93,
+  "reforco": 20.84,
+  "adicional": 2.07,
+  "imunizados": 65.79,
+  "2reforco": 0.0,
+  "id": 27
+ }
+]

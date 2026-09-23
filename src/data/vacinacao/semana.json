@@ -1,0 +1,804 @@
+{
+    "deaths": [
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 1,
+            "covid": 0,
+            "nocovid": 15
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 2,
+            "covid": 0,
+            "nocovid": 42
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 3,
+            "covid": 0,
+            "nocovid": 54
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 4,
+            "covid": 0,
+            "nocovid": 51
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 5,
+            "covid": 0,
+            "nocovid": 57
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 6,
+            "covid": 0,
+            "nocovid": 45
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 7,
+            "covid": 0,
+            "nocovid": 45
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 8,
+            "covid": 0,
+            "nocovid": 62
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 9,
+            "covid": 0,
+            "nocovid": 71
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 10,
+            "covid": 12,
+            "nocovid": 73
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 11,
+            "covid": 256,
+            "nocovid": 131
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 12,
+            "covid": 846,
+            "nocovid": 533
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 13,
+            "covid": 1408,
+            "nocovid": 1371
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 14,
+            "covid": 1733,
+            "nocovid": 1508
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 15,
+            "covid": 2620,
+            "nocovid": 1583
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 16,
+            "covid": 3667,
+            "nocovid": 1750
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 17,
+            "covid": 4463,
+            "nocovid": 1809
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 18,
+            "covid": 5436,
+            "nocovid": 2054
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 19,
+            "covid": 5886,
+            "nocovid": 2066
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 20,
+            "covid": 5929,
+            "nocovid": 2290
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 21,
+            "covid": 5751,
+            "nocovid": 2258
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 22,
+            "covid": 5482,
+            "nocovid": 2324
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 23,
+            "covid": 5734,
+            "nocovid": 2246
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 24,
+            "covid": 5878,
+            "nocovid": 2133
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 25,
+            "covid": 5756,
+            "nocovid": 2171
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 26,
+            "covid": 5838,
+            "nocovid": 2097
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 27,
+            "covid": 6209,
+            "nocovid": 2042
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 28,
+            "covid": 6076,
+            "nocovid": 2035
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 29,
+            "covid": 6079,
+            "nocovid": 1865
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 30,
+            "covid": 5679,
+            "nocovid": 1894
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 31,
+            "covid": 5232,
+            "nocovid": 1590
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 32,
+            "covid": 5000,
+            "nocovid": 1689
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 33,
+            "covid": 4807,
+            "nocovid": 1636
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 34,
+            "covid": 4432,
+            "nocovid": 1540
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 35,
+            "covid": 4034,
+            "nocovid": 1699
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 36,
+            "covid": 3728,
+            "nocovid": 1568
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 37,
+            "covid": 3444,
+            "nocovid": 1333
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 38,
+            "covid": 3226,
+            "nocovid": 1315
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 39,
+            "covid": 3064,
+            "nocovid": 1298
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 40,
+            "covid": 2799,
+            "nocovid": 1374
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 41,
+            "covid": 2440,
+            "nocovid": 1481
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 42,
+            "covid": 2334,
+            "nocovid": 1113
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 43,
+            "covid": 2295,
+            "nocovid": 1005
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 44,
+            "covid": 2400,
+            "nocovid": 1014
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 45,
+            "covid": 2865,
+            "nocovid": 938
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 46,
+            "covid": 3547,
+            "nocovid": 996
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 47,
+            "covid": 4261,
+            "nocovid": 1008
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 48,
+            "covid": 4914,
+            "nocovid": 953
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 49,
+            "covid": 5195,
+            "nocovid": 1045
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 50,
+            "covid": 5239,
+            "nocovid": 1025
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 51,
+            "covid": 4552,
+            "nocovid": 994
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 52,
+            "covid": 5151,
+            "nocovid": 883
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 53,
+            "covid": 5207,
+            "nocovid": 978
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 54,
+            "covid": 2355,
+            "nocovid": 638
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 55,
+            "covid": 786,
+            "nocovid": 209
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 56,
+            "covid": 484,
+            "nocovid": 94
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 57,
+            "covid": 349,
+            "nocovid": 76
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 58,
+            "covid": 277,
+            "nocovid": 47
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 59,
+            "covid": 189,
+            "nocovid": 38
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 60,
+            "covid": 188,
+            "nocovid": 48
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 61,
+            "covid": 142,
+            "nocovid": 59
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 62,
+            "covid": 90,
+            "nocovid": 24
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 63,
+            "covid": 67,
+            "nocovid": 22
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 64,
+            "covid": 62,
+            "nocovid": 13
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 65,
+            "covid": 60,
+            "nocovid": 12
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 66,
+            "covid": 62,
+            "nocovid": 4
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 67,
+            "covid": 73,
+            "nocovid": 10
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 68,
+            "covid": 59,
+            "nocovid": 8
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 69,
+            "covid": 63,
+            "nocovid": 13
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 70,
+            "covid": 54,
+            "nocovid": 16
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 71,
+            "covid": 71,
+            "nocovid": 7
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 72,
+            "covid": 25,
+            "nocovid": 8
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 73,
+            "covid": 33,
+            "nocovid": 4
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 74,
+            "covid": 24,
+            "nocovid": 5
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 75,
+            "covid": 48,
+            "nocovid": 2
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 76,
+            "covid": 40,
+            "nocovid": 6
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 77,
+            "covid": 51,
+            "nocovid": 3
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 78,
+            "covid": 26,
+            "nocovid": 5
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 79,
+            "covid": 45,
+            "nocovid": 9
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 80,
+            "covid": 38,
+            "nocovid": 14
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 81,
+            "covid": 21,
+            "nocovid": 3
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 82,
+            "covid": 15,
+            "nocovid": 5
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 83,
+            "covid": 17,
+            "nocovid": 5
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 84,
+            "covid": 27,
+            "nocovid": 10
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 85,
+            "covid": 13,
+            "nocovid": 8
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 86,
+            "covid": 21,
+            "nocovid": 11
+        }
+    ],
+    "doses": [
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 58,
+            "first": 50000,
+            "second": 25000
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 59,
+            "first": 60001,
+            "second": 30000
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 60,
+            "first": 70002,
+            "second": 35001
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 61,
+            "first": 90003,
+            "second": 45000
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 62,
+            "first": 100004,
+            "second": 50002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 63,
+            "first": 110004,
+            "second": 55002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 64,
+            "first": 120004,
+            "second": 60002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 65,
+            "first": 140004,
+            "second": 70002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 66,
+            "first": 180004,
+            "second": 90002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 67,
+            "first": 190004,
+            "second": 95002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 68,
+            "first": 200004,
+            "second": 100002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 69,
+            "first": 220004,
+            "second": 110002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 70,
+            "first": 250004,
+            "second": 125002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 71,
+            "first": 290004,
+            "second": 145002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 72,
+            "first": 300004,
+            "second": 150002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 73,
+            "first": 320004,
+            "second": 160002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 74,
+            "first": 350004,
+            "second": 175002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 75,
+            "first": 370004,
+            "second": 185002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 76,
+            "first": 400004,
+            "second": 200002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 77,
+            "first": 450004,
+            "second": 225002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 78,
+            "first": 500004,
+            "second": 250002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 79,
+            "first": 550004,
+            "second": 275002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 80,
+            "first": 610004,
+            "second": 305002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 81,
+            "first": 670004,
+            "second": 335002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 82,
+            "first": 720004,
+            "second": 360002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 83,
+            "first": 760004,
+            "second": 380002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 84,
+            "first": 800004,
+            "second": 400002
+        },
+        {
+            "uf": "BA",
+            "estado": "Bahia",
+            "week": 85,
+            "first": 890004,
+            "second": 445002
+        }
+    ]
+}

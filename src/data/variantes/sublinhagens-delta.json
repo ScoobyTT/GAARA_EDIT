@@ -1,0 +1,4538 @@
+[
+	{
+        		"data": "AY.100",
+        		"key": 1,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 2,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 3,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 4,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 5,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 6,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 7,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 8,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 9,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 6
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 10,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 11,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 12,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 13,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 64
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 14,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 15,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 16,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 17,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 25
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 18,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 19,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 7
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 20,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 21,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 22,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 23,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 24,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 25,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 524
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 26,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.100",
+        		"key": 27,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 28,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 29,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 396
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 30,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 10
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 31,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 56
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 32,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 13
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 33,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 18
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 34,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 8
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 35,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 10
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 36,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 61
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 37,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 38,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 39,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 78
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 40,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 15
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 41,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 14
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 42,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 43,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 849
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 44,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 49
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 45,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 25
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 46,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 48
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 47,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 48,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 161
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 49,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 50,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 51,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 1160
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 52,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 693
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 53,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.101",
+        		"key": 54,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 55,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 56,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 57,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 58,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 59,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 60,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 61,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 62,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 63,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 64,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 65,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 66,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 23
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 67,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 68,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 69,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 70,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 73
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 71,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 72,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 73,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 7
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 74,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 75,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 76,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 77,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 78,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 79,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 175
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 80,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.116",
+        		"key": 81,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 82,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 83,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 84,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 12
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 85,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 155
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 86,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 87,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 88,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 89,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 27
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 90,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 91,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 92,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 93,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 94,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 95,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 96,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 97,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 98,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 99,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 100,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 6
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 101,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 102,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 103,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 104,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 22
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 105,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 79
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 106,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 46
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 107,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.122",
+        		"key": 108,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 109,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 110,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 111,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 112,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 113,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 114,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 6
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 115,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 116,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 117,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 11
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 118,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 119,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 120,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 121,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 122,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 123,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 124,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 125,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 126,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 127,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 12
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 128,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 129,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 130,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 131,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 132,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 133,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 217
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 134,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.26",
+        		"key": 135,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 136,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 137,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 138,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 139,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 140,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 141,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 142,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 143,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 144,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 145,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 146,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 147,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 148,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 149,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 150,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 151,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 152,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 153,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 154,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 155,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 156,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 157,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 158,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 159,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 160,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 374
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 161,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.3",
+        		"key": 162,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 163,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 164,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 165,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 166,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 167,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 8
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 168,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 169,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 170,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 171,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 172,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 173,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 174,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 6
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 175,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 8
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 176,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 177,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 178,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 179,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 7
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 180,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 181,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 60
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 182,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 183,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 184,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 185,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 186,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 187,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 239
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 188,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.34.1",
+        		"key": 189,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 190,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 191,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 192,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 193,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 194,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 40
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 195,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 49
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 196,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 197,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 13
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 198,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 199,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 200,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 201,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 12
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 202,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 30
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 203,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 11
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 204,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 205,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 206,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 23
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 207,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 208,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 11
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 209,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 210,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 211,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 212,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 213,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 8
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 214,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 1526
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 215,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.34.1.1",
+        		"key": 216,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 217,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 218,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 219,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 220,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 221,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 222,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 223,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 224,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 6
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 225,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 226,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 227,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 228,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 229,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 230,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 231,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 232,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 233,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 234,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 235,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 12
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 236,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 237,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 238,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 239,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 240,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 241,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 429
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 242,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.36",
+        		"key": 243,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 244,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 12
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 245,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 246,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 247,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 248,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 249,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 30
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 250,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 251,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 252,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 144
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 253,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 254,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 255,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 256,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 257,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 258,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 259,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 260,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 261,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 262,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 263,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 264,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 265,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 266,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 267,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 268,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 7
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 269,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.42",
+        		"key": 270,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 271,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 11
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 272,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 273,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 125
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 274,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 71
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 275,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 50
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 276,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 11
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 277,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 278,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 10
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 279,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 63
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 280,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 11
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 281,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 282,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 40
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 283,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 15
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 284,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 90
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 285,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 286,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 24
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 287,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 8
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 288,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 289,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 34
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 290,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 291,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 8
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 292,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 124
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 293,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 294,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 24
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 295,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 1594
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 296,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43",
+        		"key": 297,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 72
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 298,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 299,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 26
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 300,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 301,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 302,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 303,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 304,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 305,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 306,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 307,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 308,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 309,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 310,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 311,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 312,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 313,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 314,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 315,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 316,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 25
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 317,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 318,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 319,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 320,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 321,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 322,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 923
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 323,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.1",
+        		"key": 324,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 325,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 326,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 327,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 328,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 329,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 26
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 330,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 331,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 332,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 333,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 334,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 335,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 336,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 337,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 338,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 339,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 340,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 7
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 341,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 342,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 343,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 25
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 344,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 345,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 346,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 347,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 348,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 75
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 349,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 1189
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 350,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.2",
+        		"key": 351,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 352,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 353,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 354,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 355,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 356,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 357,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 358,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 359,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 360,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 361,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 362,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 363,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 364,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 365,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 366,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 367,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 368,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 369,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 370,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 371,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 372,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 373,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 374,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 375,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 376,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 194
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 377,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.43.7",
+        		"key": 378,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 379,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 380,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 20
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 381,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 382,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 383,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 27
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 384,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 385,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 386,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 387,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 16
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 388,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 389,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 390,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 35
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 391,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 19
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 392,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 6
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 393,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 394,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 18
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 395,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 67
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 396,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 397,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 11
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 398,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 399,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 400,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 401,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 402,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 13
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 403,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 1279
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 404,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.46.3",
+        		"key": 405,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 406,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 407,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 408,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 409,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 410,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 411,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 412,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 413,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 414,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 415,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 416,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 417,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 418,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 419,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 420,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 421,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 422,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 423,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 424,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 425,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 426,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 427,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 428,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 429,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 430,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 215
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 431,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.5",
+        		"key": 432,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 433,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 434,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 435,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 436,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 437,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 7
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 438,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 439,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 440,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 441,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 8
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 442,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 8
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 443,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 444,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 445,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 64
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 446,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 26
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 447,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 448,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 449,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 20
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 450,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 451,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 13
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 452,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 453,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 454,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 455,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 456,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 457,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 56
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 458,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.6",
+        		"key": 459,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 460,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 461,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 462,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 463,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 105
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 464,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 465,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 466,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 467,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 468,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 469,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 470,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 471,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 472,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 473,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 474,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 475,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 476,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 477,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 478,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 479,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 480,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 481,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 12
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 482,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 483,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 484,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 485,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.9.2",
+        		"key": 486,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 487,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 7
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 488,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 489,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 490,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 491,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 71
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 492,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 45
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 493,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 494,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 439
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 495,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 496,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 497,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 498,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 499,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 101
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 500,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 501,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 7
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 502,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 503,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 9
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 504,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 3
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 505,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 341
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 506,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 19
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 507,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 508,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 509,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 510,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 25
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 511,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 161
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 512,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.99.1",
+        		"key": 513,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 514,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 42
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 515,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 532
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 516,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 15
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 517,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 496
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 518,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 886
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 519,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 1254
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 520,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 477
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 521,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 539
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 522,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 1045
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 523,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 41
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 524,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 61
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 525,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 140
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 526,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 598
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 527,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 497
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 528,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 1057
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 529,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 199
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 530,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 792
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 531,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 74
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 532,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 4584
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 533,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 270
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 534,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 466
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 535,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 165
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 536,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 537,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 843
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 538,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 9067
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 539,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 61
+    
+	},
+	{
+        		"data": "AY.99.2",
+        		"key": 540,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 140
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 541,
+        		"state": "Acre",
+        		"region": "Norte",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 542,
+        		"state": "Alagoas",
+        		"region": "Nordeste",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 543,
+        		"state": "Amapá",
+        		"region": "Norte",
+        		"copias": 43
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 544,
+        		"state": "Amazonas",
+        		"region": "Norte",
+        		"copias": 63
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 545,
+        		"state": "Bahia",
+        		"region": "Nordeste",
+        		"copias": 62
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 546,
+        		"state": "Ceará",
+        		"region": "Nordeste",
+        		"copias": 22
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 547,
+        		"state": "Distrito Federal",
+        		"region": "Centro Oeste",
+        		"copias": 10
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 548,
+        		"state": "Espírito Santo",
+        		"region": "Sudeste",
+        		"copias": 23
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 549,
+        		"state": "Goiás",
+        		"region": "Centro Oeste",
+        		"copias": 99
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 550,
+        		"state": "Maranhão",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 551,
+        		"state": "Mato Grosso",
+        		"region": "Centro Oeste",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 552,
+        		"state": "Mato Grosso do Sul",
+        		"region": "Centro Oeste",
+        		"copias": 51
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 553,
+        		"state": "Minas Gerais",
+        		"region": "Sudeste",
+        		"copias": 40
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 554,
+        		"state": "Pará",
+        		"region": "Norte",
+        		"copias": 22
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 555,
+        		"state": "Paraíba",
+        		"region": "Nordeste",
+        		"copias": 16
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 556,
+        		"state": "Paraná",
+        		"region": "Sul",
+        		"copias": 23
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 557,
+        		"state": "Pernambuco",
+        		"region": "Nordeste",
+        		"copias": 29
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 558,
+        		"state": "Piauí",
+        		"region": "Nordeste",
+        		"copias": 1
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 559,
+        		"state": "Rio de Janeiro",
+        		"region": "Sudeste",
+        		"copias": 51
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 560,
+        		"state": "Rio Grande do Norte",
+        		"region": "Nordeste",
+        		"copias": 17
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 561,
+        		"state": "Rio Grande do Sul",
+        		"region": "Sul",
+        		"copias": 5
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 562,
+        		"state": "Rondônia",
+        		"region": "Norte",
+        		"copias": 4
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 563,
+        		"state": "Roraima",
+        		"region": "Norte",
+        		"copias": 2
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 564,
+        		"state": "Santa Catarina",
+        		"region": "Sul",
+        		"copias": 20
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 565,
+        		"state": "São Paulo",
+        		"region": "Sudeste",
+        		"copias": 473
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 566,
+        		"state": "Sergipe",
+        		"region": "Nordeste",
+        		"copias": 0
+    
+	},
+	{
+        		"data": "Outras",
+        		"key": 567,
+        		"state": "Tocantins",
+        		"region": "Norte",
+        		"copias": 5
+    
+	}
+]
