@@ -1,0 +1,86 @@
+aux = dengue_data %>%
+  select(Sex, name_state, populacao, weekStart, name_state, name_region, nome_munic,Race_Colour)  %>%
+  group_by(nome_munic)
+
+
+
+library(dplyr)
+library(jsonlite)
+
+# 1. Seleciona, agrupa e divide os dados em uma lista onde cada elemento é uma cidade
+dengue_json_list <- dengue_data %>%
+  select(Sex, name_state, populacao, weekStart, name_region, nome_munic, Race_Colour) %>%
+  # Nota: Removi a duplicata de 'name_state' que estava no seu select
+  group_by(nome_munic) %>%
+  group_split() %>%
+  drop_na()%>%
+  setNames(unique(sort(dengue_data$nome_munic))) 
+# O setNames garante que o nome da cidade seja a chave principal no JSON
+
+# 2. Converte para string JSON com formatação bonita (indentada)
+json_data <- toJSON(dengue_json_list, pretty = TRUE, auto_unbox = TRUE)
+
+# 3. Salva o resultado em um arquivo .json no seu computador
+writeLines(json_data, "dengue_por_cidade.json")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+library(dplyr)
+library(tidyr)     
+library(jsonlite)
+
+# MODO CORRETO E À PROVA DE ERROS:
+dengue_json_list <- dengue_data %>%
+  select(Sex, name_state, populacao, weekStart, name_region, nome_munic, Race_Colour) %>%
+  drop_na(nome_munic) %>%   
+  split(.$nome_munic)       # 2º Divide e nomeia os grupos automaticamente de uma vez só
+
+# Converte para JSON e salva o arquivo
+json_data <- toJSON(dengue_json_list, pretty = TRUE, auto_unbox = TRUE)
+writeLines(json_data, "dengue_por_cidade.json")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+library(dplyr)
+library(tidyr)
+library(jsonlite)
+
+# 1. Filtra e limpa os dados (sem quebrar em listas pesadas na memória)
+dengue_limpo <- dengue_data %>%
+  select(Sex, name_state, populacao, weekStart, name_region, nome_munic, Race_Colour) %>%
+  drop_na(nome_munic) %>%
+  arrange(nome_munic) # Garante que as cidades fiquem ordenadas no arquivo
+
+# 2. Abre uma conexão de arquivo e escreve direto no disco em formato streaming
+# Isso evita processar o texto inteiro na memória RAM do R
+con <- file("dengue_por_cidade.json", open = "wb")
+stream_out(dengue_limpo, con, pagesize = 10000)
+close(con)
+
