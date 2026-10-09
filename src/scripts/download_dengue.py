@@ -49,7 +49,7 @@ from pyreaddbc import dbc2dbf
 
 # ========== 1. CONFIGURAÇÕES INICIAIS ==========
 BASE_DIR = Path(__file__).resolve().parent
-DIR      = BASE_DIR / "input"
+DIR      = BASE_DIR / "data"
 B_FIN    = DIR / "finais"
 B_PAR    = DIR / "parciais"
 DIR_TSV  = DIR / "tsv"
