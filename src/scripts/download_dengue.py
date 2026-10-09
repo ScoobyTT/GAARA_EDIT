@@ -49,7 +49,7 @@ from pyreaddbc import dbc2dbf
 
 # ========== 1. CONFIGURAÇÕES INICIAIS ==========
 BASE_DIR = Path(__file__).resolve().parent
-DIR      = BASE_DIR / "app" / "input"
+DIR      = BASE_DIR / "input"
 B_FIN    = DIR / "finais"
 B_PAR    = DIR / "parciais"
 DIR_TSV  = DIR / "tsv"
@@ -324,7 +324,7 @@ def consolidar(confirmados: bool) -> None:
         estado, left_on="State", right_on="code_state", how="left",
     )
 
-    out_name = f"2014-2025_DENGUE_{rotulo}_dash_new.tsv"
+    out_name = f"src/scripts/input/2014-2025_DENGUE_{rotulo}_dash_new.tsv"
     base_final.to_csv(DIR / out_name, sep="\t", index=False)
     print("Gravado:", DIR / out_name, f"({len(base_final)} linhas)")
 
